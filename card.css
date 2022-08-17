@@ -6,7 +6,7 @@ margin:0;
 
 }
 body{
-    height:1vh;
+    min-height:1vh;
 }
 .card{
     background-color: rgb(8 13 36);
